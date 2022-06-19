@@ -20,7 +20,7 @@
 - Graph
 - Heap
 
-#### Algoriths,
+#### Algorithms,
 - Kadane's Algorithm - Maximum sub-array sum
 
 #### Concepts,
