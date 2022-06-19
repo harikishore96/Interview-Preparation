@@ -22,9 +22,13 @@
 
 #### Algorithms,
 - Kadane's Algorithm - Maximum sub-array sum
+- Merge Sort
+- Binary Search
 
 #### Concepts,
-Palindrome
+- Palindrome
+- Two Pointer
+- Sliding Window
 
 ### Useful Links,
 1. [60 LeetCode problems to solve for coding interview](https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e)
