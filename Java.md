@@ -60,3 +60,11 @@ do {
   // update statement   
 } while (condition);
 ```
+
+| Class         | Method     | Description |
+|--------------|-----------|------------|
+| [Math](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html) | max(int a, int b)      | Returns the greater of two int values.  | 
+| [String](https://docs.oracle.com/javase/8/docs/api/java/lang/String.html)      | valueOf  |        |
+|       | substring  |        |
+|       | contains  |        |
+|       | char[] toCharArray()  | Converts this string to a new character array.       |
