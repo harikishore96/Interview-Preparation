@@ -30,6 +30,8 @@
 - [Two Pointer](https://medium.com/analytics-vidhya/array-two-pointers-4b8d62d2b8a)
 - [Sliding Window](https://janac.medium.com/what-is-the-sliding-window-algorithm-f9fcfe92b853)
 - Dynamic Programming
+- [Combinations and Permutations](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)
+- [Pascal's Triangle](https://www.mathsisfun.com/pascals-triangle.html)
 
 ### Useful Links,
 1. [60 LeetCode problems to solve for coding interview](https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e)
