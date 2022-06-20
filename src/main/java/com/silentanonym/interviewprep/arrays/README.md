@@ -6,3 +6,4 @@
 - [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - [Solution](https://www.youtube.com/watch?v=1pkOgXD63yU)
 - [78. Subsets](https://leetcode.com/problems/subsets/)
+- [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) - [Solution](https://www.youtube.com/watch?v=a496Nw8VQeM)
