@@ -50,6 +50,8 @@
 3. [Google Interview Preparation For Software Engineer – A Complete Guide](https://www.geeksforgeeks.org/google-interview-preparation-for-software-engineer-a-complete-guide/)
 4. [Maths is Fun](https://www.mathsisfun.com/)
 5. [SDE SHEET – A Complete Guide for SDE Preparation](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)
+6. [The Ultimate Beginner’s Guide For DSA](https://www.geeksforgeeks.org/the-ultimate-beginners-guide-for-dsa/)
+7. [Complete Roadmap To Learn DSA From Scratch](https://www.geeksforgeeks.org/complete-roadmap-to-learn-dsa-from-scratch/)
 
 ### Testimony,
 - [How I prepared for Google — Solving 200 leetcode questions.](https://medium.com/@siddhism/how-i-prepared-for-google-0-leetcode-questions-to-200-questions-e37690ebce85)
