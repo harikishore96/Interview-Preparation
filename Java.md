@@ -1,4 +1,4 @@
-### Java,
+# Java
 [Data Types](https://www.javatpoint.com/java-data-types)
 There are two types of data types in Java:
 

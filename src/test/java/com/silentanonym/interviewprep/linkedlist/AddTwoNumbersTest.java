@@ -2,30 +2,45 @@ package com.silentanonym.interviewprep.linkedlist;
 
 import org.junit.jupiter.api.Test;
 
-public class AddTwoNumbersTest {
+class AddTwoNumbersTest {
 
     AddTwoNumbers addTwoNumbers = new AddTwoNumbers();
 
     @Test
-    void testAddTwoNumbers() {
+    void addTwoNumbers() {
 
-        // Input: l1 = [2,4,3], l2 = [5,6,4]
-        // Output: [7,0,8]
-        // Explanation: 342 + 465 = 807.
+        AddTwoNumbers.ListNode l1 = addTwoNumbers.new ListNode(2);//.next(4).next(3);
+        AddTwoNumbers.ListNode secondNode = addTwoNumbers.new ListNode(4);
+        AddTwoNumbers.ListNode thirdNode = addTwoNumbers.new ListNode(3);
+        l1.next = secondNode;
+        secondNode.next = thirdNode;
+        thirdNode.next = null;
 
-        // L1
-        ListNode headNodeL1 = new ListNode(2);
-        headNodeL1.next = new ListNode(4);
-        headNodeL1 = headNodeL1.next;
-        headNodeL1.next = new ListNode(3);
-        headNodeL1 = headNodeL1.next;
+        AddTwoNumbers.ListNode l2 = addTwoNumbers.new ListNode(5);//.next(6).next(4);
+        secondNode = addTwoNumbers.new ListNode(6);
+        thirdNode = addTwoNumbers.new ListNode(4);
+        l2.next = secondNode;
+        secondNode.next = thirdNode;
+        thirdNode.next = null;
 
-        // L2
-        ListNode headNodeL2 = new ListNode(5);
-        headNodeL2.next = new ListNode(6);
-        headNodeL2 = headNodeL2.next;
-        headNodeL2.next = new ListNode(4);
-        headNodeL2 = headNodeL2.next;
-        addTwoNumbers.addTwoNumbers(l1, l2);
+        AddTwoNumbers.ListNode expected = addTwoNumbers.new ListNode(7);//.next(0).next(8);
+        secondNode = addTwoNumbers.new ListNode(0);
+        thirdNode = addTwoNumbers.new ListNode(8);
+        expected.next = secondNode;
+        secondNode.next = thirdNode;
+        thirdNode.next = null;
+
+        print(expected);
+
+        AddTwoNumbers.ListNode actual = addTwoNumbers.addTwoNumbers(l1, l2);
+        System.out.println("");
+        print(actual);
+    }
+
+    private void print(AddTwoNumbers.ListNode head) {
+        while (head != null) {
+            System.out.print(head.val);
+            head = head.next;
+        }
     }
 }

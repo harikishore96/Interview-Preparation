@@ -12,13 +12,23 @@
 - Stack
 - Queue
 - Trie
-- HashMap
-- HashSet
+- Map
+    - HashMap
+- Set
+    - HashSet
 - Tree
-- Binary Tree
-- Binary Search Tree
+    - Binary Tree
+    - Binary Search Tree
+    - AVL Tree
+    - Red Black Tree
 - Graph
 - Heap
+
+### Problem Solving Techniques,
+- Brute Force
+- Dynamic Programming
+- Greedy Algorithm
+- Backtracking Algorithm
 
 #### Algorithms,
 - [Kadane's Algorithm - Maximum sub-array sum](https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d)
@@ -29,7 +39,6 @@
 - Palindrome
 - [Two Pointer](https://medium.com/analytics-vidhya/array-two-pointers-4b8d62d2b8a)
 - [Sliding Window](https://janac.medium.com/what-is-the-sliding-window-algorithm-f9fcfe92b853)
-- Dynamic Programming
 - [Combinations and Permutations](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)
 - [Pascal's Triangle](https://www.mathsisfun.com/pascals-triangle.html)
 
@@ -43,6 +52,10 @@
 3. [Google Kick start](https://codingcompetitions.withgoogle.com/kickstart)
 4. [GFG Practice](https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions)
 5. [Hackerearth](https://www.hackerearth.com/practice/interviews/)
+6. [Interview Bit](https://www.interviewbit.com/coding-interview-questions/)
+
+### Top Learning Resource,
+1. [Scaler Topics - What is Data Structure?](https://www.scaler.com/topics/data-structures/what-is-data-structure/)
 
 ### Learning Resource,
 1. [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/)
