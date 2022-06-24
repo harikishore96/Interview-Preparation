@@ -14,3 +14,4 @@
 - [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) - [Solution](https://www.youtube.com/watch?v=a496Nw8VQeM)
 - [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) - [Solution](https://www.youtube.com/watch?v=6FLvhQjZqvM)
 - [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) - [Solution](https://www.youtube.com/watch?v=FGgL5QxZLno)
+- [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) - [Solution](https://www.youtube.com/watch?v=Ru_kyDIE6XI)
