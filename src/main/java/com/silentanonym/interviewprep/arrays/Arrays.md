@@ -28,6 +28,10 @@ numbers[0] = 0;
 
 ### Iteration,
 ```
+// For-Each Loop
+for(int number : numbers) {
+    System.out.println(number);
+}
 ```
 
 ### Searching,
