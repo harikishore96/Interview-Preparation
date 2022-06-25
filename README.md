@@ -56,6 +56,7 @@
 
 ### Top Learning Resource,
 1. [Scaler Topics - What is Data Structure?](https://www.scaler.com/topics/data-structures/what-is-data-structure/)
+2. [Programiz - DSA & Algorithms](https://www.programiz.com/dsa/algorithm)
 
 ### Learning Resource,
 1. [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/)
