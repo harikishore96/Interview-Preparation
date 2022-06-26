@@ -6,4 +6,3 @@
 - [141. Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/) - [Solution](https://www.youtube.com/watch?v=354J83hX7RI)
 - [21. Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [203. Remove Linked List Elements (Easy)](https://leetcode.com/problems/remove-linked-list-elements/) - [Solution](https://www.youtube.com/watch?v=g8jdosJVQyc)
-- [20. Valid Parentheses (Easy)](https://leetcode.com/problems/valid-parentheses/) - [Solution](https://www.youtube.com/watch?v=9kmUaXrjizQ)
