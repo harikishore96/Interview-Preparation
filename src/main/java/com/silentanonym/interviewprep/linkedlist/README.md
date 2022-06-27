@@ -7,3 +7,4 @@
 - [21. Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [203. Remove Linked List Elements (Easy)](https://leetcode.com/problems/remove-linked-list-elements/) - [Solution](https://www.youtube.com/watch?v=g8jdosJVQyc)
 - [206. Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/) - [Solution](https://www.youtube.com/watch?v=t7YaoQOFXzk)
+- [83. Remove Duplicates from Sorted List (Easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) - [Solution](https://www.youtube.com/watch?v=wIB5sg_Ulx4)
