@@ -15,3 +15,4 @@
 - [102. Binary Tree Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-level-order-traversal/) - [Solution](https://www.youtube.com/watch?v=sFDNL6r5aDM)
 - [104. Maximum Depth of Binary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - [Solution](https://www.youtube.com/watch?v=dvmoHr5cN80)
 - [101. Symmetric Tree (Easy)](https://leetcode.com/problems/symmetric-tree/) - [Solution](https://www.youtube.com/watch?v=nKggNAiEpBE)
+- [226. Invert Binary Tree (Easy)](https://leetcode.com/problems/invert-binary-tree/) - [Solution](https://www.youtube.com/watch?v=OnSn2XEQ4MY)
