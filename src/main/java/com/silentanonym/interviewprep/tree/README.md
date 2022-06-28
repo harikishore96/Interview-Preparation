@@ -12,3 +12,4 @@
 - [144. Binary Tree Preorder Traversal (Easy)](https://leetcode.com/problems/binary-tree-preorder-traversal/) - [Solution](https://www.youtube.com/watch?v=Bfqd8BsPVuw)
 - [94. Binary Tree Inorder Traversal (Easy)](https://leetcode.com/problems/binary-tree-inorder-traversal/) - [Solution](https://www.youtube.com/watch?v=QxFOR8sQuB4)
 - [145. Binary Tree Postorder Traversal (Easy)](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- [102. Binary Tree Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-level-order-traversal/) - [Solution](https://www.youtube.com/watch?v=sFDNL6r5aDM)
