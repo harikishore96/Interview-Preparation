@@ -80,3 +80,7 @@
 - [Amazon](https://www.amazon.jobs/en/job_categories/software-development)
 - [Hackerearth](https://www.hackerearth.com/challenges/)
 - [CodeChef](https://www.codechef.com/contests/)
+
+
+### Blogs,
+- [Hashnode](https://hashnode.com/)
