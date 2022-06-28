@@ -28,6 +28,11 @@ public class TreeNode {
         return this;
     }
 
+    public TreeNode left(TreeNode left) {
+        this.left = left;
+        return this;
+    }
+
     public TreeNode right(TreeNode right) {
         this.right = right;
         return this;
