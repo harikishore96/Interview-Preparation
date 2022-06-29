@@ -18,3 +18,4 @@
 - [226. Invert Binary Tree (Easy)](https://leetcode.com/problems/invert-binary-tree/) - [Solution](https://www.youtube.com/watch?v=OnSn2XEQ4MY)
 - [112. Path Sum (Easy)](https://leetcode.com/problems/path-sum/) - [Solution](https://www.youtube.com/watch?v=UYiOUI19iHE)
 - [700. Search in a Binary Search Tree (Easy)](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+- [701. Insert into a Binary Search Tree (Medium)](https://leetcode.com/problems/insert-into-a-binary-search-tree/) - [Solution](https://www.youtube.com/watch?v=FiFiNvM29ps&ab_channel=takeUforward)
