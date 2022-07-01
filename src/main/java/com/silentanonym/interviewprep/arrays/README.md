@@ -21,3 +21,4 @@
 - [462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) - [Solution](https://www.youtube.com/watch?v=FGgL5QxZLno)
 - [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) - [Solution](https://www.youtube.com/watch?v=Ru_kyDIE6XI)
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+- [1710. Maximum Units on a Truck (Easy)](https://leetcode.com/problems/maximum-units-on-a-truck/)
