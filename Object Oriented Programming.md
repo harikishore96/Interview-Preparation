@@ -31,3 +31,33 @@ public class Student {
   }
 }
 ```
+
+## Inheritance
+Inheritance allows classes to inherit attributes and methods of other classes. This means that parent classes extend attributes and behaviors to child classes. Inheritance supports reusability.
+
+We group the "inheritance concept" into two categories:
+
+1. subclass (child) - the class that inherits from another class.
+2. superclass (parent) - the class being inherited from.
+
+To inherit from a class, we use the extends keyword.
+
+```
+class Animal {
+
+  // field and method of the parent class
+  String name;
+  public void eat() {
+    System.out.println("I can eat");
+  }
+}
+
+// inherit from Animal
+class JerryTheMouse extends Animal {
+
+  // new method in subclass
+  public void display() {
+    System.out.println("My name is " + name);
+  }
+}
+```
