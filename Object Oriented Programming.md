@@ -61,3 +61,42 @@ class JerryTheMouse extends Animal {
   }
 }
 ```
+
+## Abstraction
+Abstraction is a concept in object-oriented programming that lets you show only essential attributes and hides unnecessary information in your code. The main purpose of abstraction is to hide unnecessary details from your users.
+
+You can abstract stuff by using abstract classes or interfaces.
+
+The abstract keyword is a non-access modifier, used for classes and methods:
+
+1. Abstract class: 
+    - is a restricted class that cannot be used to create objects. 
+    - To access it, it must be inherited from another class.
+2. Abstract method: 
+    - A method that doesn't have its body is known as an abstract method. 
+    - We use the same abstract keyword to create abstract methods.
+
+The body of an abstract method is provided by the subclass (inherited from).
+
+```
+// Abstract class
+abstract class Animal {
+
+  // Abstract method (does not have a body)
+  public abstract void animalSound();
+
+  // Regular method
+  public void sleep() {
+    System.out.println("Zzzz");
+  }
+}
+
+// Subclass (inherit from Animal)
+class Cow extends Animal {
+    
+  public void animalSound() {
+    // The body of animalSound() is provided here
+    System.out.println("The cow says: Moo");
+  }
+}
+```
