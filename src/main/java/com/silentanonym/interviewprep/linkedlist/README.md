@@ -8,3 +8,4 @@
 - [203. Remove Linked List Elements (Easy)](https://leetcode.com/problems/remove-linked-list-elements/) - [Solution](https://www.youtube.com/watch?v=g8jdosJVQyc)
 - [206. Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/) - [Solution](https://www.youtube.com/watch?v=t7YaoQOFXzk)
 - [83. Remove Duplicates from Sorted List (Easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) - [Solution](https://www.youtube.com/watch?v=wIB5sg_Ulx4)
+- [1290. Convert Binary Number in a Linked List to Integer (Easy)](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) - [Solution](https://www.youtube.com/watch?v=DDJgtUPg2eQ)
