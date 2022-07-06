@@ -4,6 +4,8 @@
     - Merge Sort
 - Searching
     - [Binary Search](https://www.programiz.com/dsa/binary-search)
+- [Prefix Sum Algorithm](https://www.youtube.com/watch?v=pVS3yhlzrlQ)
+- [Prefix Sum & Suffix Sum](https://dev.to/grekz/prefix-sum-suffix-sum-programming-tools-1eh5)
 
 ### Useful Links,
 - [Indexing a matrix using "floor division" and "modulus" operators](https://stackoverflow.com/a/62963673)
@@ -23,3 +25,4 @@
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [1710. Maximum Units on a Truck (Easy)](https://leetcode.com/problems/maximum-units-on-a-truck/)
 - [215. Kth Largest Element in an Array (Medium)](https://leetcode.com/problems/kth-largest-element-in-an-array/) - [Solution](https://www.youtube.com/watch?v=ockS2ZKh7j8)
+- [1480. Running Sum of 1d Array (Easy)](https://leetcode.com/problems/running-sum-of-1d-array/)

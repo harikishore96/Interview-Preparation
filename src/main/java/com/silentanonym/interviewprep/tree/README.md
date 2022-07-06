@@ -7,6 +7,8 @@
     - Post-Order Tree Traversal
 - Breadth First Search or Level Order Traversal
 - Morris Traversal
+- [Euler Tour of Tree](https://www.geeksforgeeks.org/euler-tour-tree/)
+- [Euler tour of Binary Tree](https://www.geeksforgeeks.org/euler-tour-binary-tree/)
 
 ### Problems,
 - [144. Binary Tree Preorder Traversal (Easy)](https://leetcode.com/problems/binary-tree-preorder-traversal/) - [Solution](https://www.youtube.com/watch?v=Bfqd8BsPVuw)
