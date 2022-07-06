@@ -22,3 +22,4 @@
 - [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) - [Solution](https://www.youtube.com/watch?v=Ru_kyDIE6XI)
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [1710. Maximum Units on a Truck (Easy)](https://leetcode.com/problems/maximum-units-on-a-truck/)
+- [215. Kth Largest Element in an Array (Medium)](https://leetcode.com/problems/kth-largest-element-in-an-array/) - [Solution](https://www.youtube.com/watch?v=ockS2ZKh7j8)
