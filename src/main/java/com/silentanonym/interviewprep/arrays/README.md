@@ -6,6 +6,10 @@
     - [Binary Search](https://www.programiz.com/dsa/binary-search)
 - [Prefix Sum Algorithm](https://www.youtube.com/watch?v=pVS3yhlzrlQ)
 - [Prefix Sum & Suffix Sum](https://dev.to/grekz/prefix-sum-suffix-sum-programming-tools-1eh5)
+- [Kadane's Algorithm - Maximum sub-array sum](https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d)
+- [Two Pointer](https://medium.com/analytics-vidhya/array-two-pointers-4b8d62d2b8a)
+- [Sliding Window](https://janac.medium.com/what-is-the-sliding-window-algorithm-f9fcfe92b853)
+- [Prefix Sum Array](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/)
 
 ### Useful Links,
 - [Indexing a matrix using "floor division" and "modulus" operators](https://stackoverflow.com/a/62963673)

@@ -30,21 +30,12 @@
 - Greedy Algorithm
 - Backtracking Algorithm
 
-#### Algorithms,
-- [Kadane's Algorithm - Maximum sub-array sum](https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d)
-- Merge Sort
-- Binary Search
-
-#### Concepts,
-- Palindrome
-- [Two Pointer](https://medium.com/analytics-vidhya/array-two-pointers-4b8d62d2b8a)
-- [Sliding Window](https://janac.medium.com/what-is-the-sliding-window-algorithm-f9fcfe92b853)
-- [Combinations and Permutations](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)
-- [Pascal's Triangle](https://www.mathsisfun.com/pascals-triangle.html)
+### Top Learning Resource,
+1. [Scaler Topics - What is Data Structure?](https://www.scaler.com/topics/data-structures/what-is-data-structure/)
+2. [Programiz - DSA & Algorithms](https://www.programiz.com/dsa/algorithm)
 
 ### Useful Links,
 1. [60 LeetCode problems to solve for coding interview](https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e)
-2. [Prefix Sum Array](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/)
 
 ### Practice,
 1. [Code Studio](https://www.codingninjas.com/codestudio/problems)
@@ -54,22 +45,13 @@
 5. [Hackerearth](https://www.hackerearth.com/practice/interviews/)
 6. [Interview Bit](https://www.interviewbit.com/coding-interview-questions/)
 
-### Top Learning Resource,
-1. [Scaler Topics - What is Data Structure?](https://www.scaler.com/topics/data-structures/what-is-data-structure/)
-2. [Programiz - DSA & Algorithms](https://www.programiz.com/dsa/algorithm)
-
 ### Learning Resource,
 1. [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/)
 2. [Hackerearth Codemonk](https://www.hackerearth.com/practice/codemonk/)
 3. [Google Interview Preparation For Software Engineer – A Complete Guide](https://www.geeksforgeeks.org/google-interview-preparation-for-software-engineer-a-complete-guide/)
-4. [Maths is Fun](https://www.mathsisfun.com/)
-5. [SDE SHEET – A Complete Guide for SDE Preparation](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)
-6. [The Ultimate Beginner’s Guide For DSA](https://www.geeksforgeeks.org/the-ultimate-beginners-guide-for-dsa/)
-7. [Complete Roadmap To Learn DSA From Scratch](https://www.geeksforgeeks.org/complete-roadmap-to-learn-dsa-from-scratch/)
-
-### Testimony,
-- [How I prepared for Google — Solving 200 leetcode questions.](https://medium.com/@siddhism/how-i-prepared-for-google-0-leetcode-questions-to-200-questions-e37690ebce85)
-- [Paypal SE 2 interview Experience](https://medium.com/@rayrmd96/paypal-se-2-interview-experience-7bfd3bc9c4eb)
+4. [SDE SHEET – A Complete Guide for SDE Preparation](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)
+5. [The Ultimate Beginner’s Guide For DSA](https://www.geeksforgeeks.org/the-ultimate-beginners-guide-for-dsa/)
+6. [Complete Roadmap To Learn DSA From Scratch](https://www.geeksforgeeks.org/complete-roadmap-to-learn-dsa-from-scratch/)
 
 ### Mock Interview,
 - Google
@@ -78,9 +60,12 @@
 
 ### Job Portal,
 - [Amazon](https://www.amazon.jobs/en/job_categories/software-development)
-- [Hackerearth](https://www.hackerearth.com/challenges/)
-- [CodeChef](https://www.codechef.com/contests/)
-
-
-### Blogs,
-- [Hashnode](https://hashnode.com/)
+- [Google](https://careers.google.com/jobs/results/)
+- [Meta](https://www.metacareers.com/jobs)
+- [Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced)
+- [Apple](https://jobs.apple.com/en-in/search)
+- [Netflix](https://jobs.netflix.com/search)
+- [Atlassian](https://www.atlassian.com/company/careers/all-jobs)
+- [Walmart Global Tech India](https://one.walmart.com/content/globaltechindia/en_in/results.html)
+- [Flipkart](https://www.flipkartcareers.com/#!/joblist)
+- [CRED](https://careers.cred.club/allJob)
