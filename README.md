@@ -1,38 +1,16 @@
 # Interview Preparation
 
 #### Checklist,
-- Java Syntax
-- Data Structures
-- Algorithms
-
-#### Data Structures,
-- Array / ArrayList
-- String
-- LinkedList
-- Stack
-- Queue
-- Trie
-- Map
-    - HashMap
-- Set
-    - HashSet
-- Tree
-    - Binary Tree
-    - Binary Search Tree
-    - AVL Tree
-    - Red Black Tree
-- Graph
-- Heap
-
-### Problem Solving Techniques,
-- Brute Force
-- Dynamic Programming
-- Greedy Algorithm
-- Backtracking Algorithm
+- [Java Syntax](/Java.md)
+- [Data Structures](/Data%20Structures.md)
+- [Algorithms](/Algorithms.md)
+- OO Design
+- Design Pattern
 
 ### Top Learning Resource,
 1. [Scaler Topics - What is Data Structure?](https://www.scaler.com/topics/data-structures/what-is-data-structure/)
 2. [Programiz - DSA & Algorithms](https://www.programiz.com/dsa/algorithm)
+3. [Enjoy Algorithms](https://www.enjoyalgorithms.com/courses/)
 
 ### Useful Links,
 1. [60 LeetCode problems to solve for coding interview](https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e)
@@ -44,6 +22,8 @@
 4. [GFG Practice](https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions)
 5. [Hackerearth](https://www.hackerearth.com/practice/interviews/)
 6. [Interview Bit](https://www.interviewbit.com/coding-interview-questions/)
+7. [HackerRank](https://www.hackerrank.com/dashboard)
+8. [CodeChef](https://www.codechef.com/)
 
 ### Learning Resource,
 1. [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/)
@@ -57,6 +37,7 @@
 - Google
     - https://www.youtube.com/watch?v=XKu_SEDAykw
     - [Interview Warmup](https://grow.google/certificates/interview-warmup/)
+- [pramp](https://www.pramp.com/#/)
 
 ### Job Portal,
 - [Amazon](https://www.amazon.jobs/en/job_categories/software-development)
