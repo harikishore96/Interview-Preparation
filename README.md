@@ -50,3 +50,4 @@
 - [Walmart Global Tech India](https://one.walmart.com/content/globaltechindia/en_in/results.html)
 - [Flipkart](https://www.flipkartcareers.com/#!/joblist)
 - [CRED](https://careers.cred.club/allJob)
+- [Goldman Sachs](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)
