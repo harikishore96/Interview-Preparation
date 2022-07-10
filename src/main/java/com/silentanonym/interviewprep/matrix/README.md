@@ -1,7 +1,7 @@
 ### Problems,
 - [51. N-Queens (Hard)](https://leetcode.com/problems/n-queens/)
 - [52. N-Queens II (Hard)](https://leetcode.com/problems/n-queens-ii/)
-- [498. Diagonal Traverse (Medium)](https://leetcode.com/problems/diagonal-traverse/)
+- [498. Diagonal Traverse (Medium)](https://leetcode.com/problems/diagonal-traverse/) - [Solution](https://www.youtube.com/watch?v=LWRR7h44VcY)
 
 ### Reference,
 - [Scaler Topics - N-Queens](https://www.scaler.com/topics/data-structures/backtracking-algorithm/#example-of-backtracking-algorithm)
