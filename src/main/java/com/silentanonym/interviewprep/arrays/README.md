@@ -1,8 +1,10 @@
 ### Algorithms,
 - Sorting
     - Bubble Sort
+    - Selection Sort
     - Merge Sort
 - Searching
+    - Linear Search - [Programiz](https://www.programiz.com/dsa/linear-search), [Scaler Topics](https://www.scaler.com/topics/data-structures/linear-search-algorithm/)
     - [Binary Search](https://www.programiz.com/dsa/binary-search)
 - [Prefix Sum Algorithm](https://www.youtube.com/watch?v=pVS3yhlzrlQ)
 - [Prefix Sum & Suffix Sum](https://dev.to/grekz/prefix-sum-suffix-sum-programming-tools-1eh5)

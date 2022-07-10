@@ -3,3 +3,4 @@
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [336. Palindrome Pairs (Hard)](https://leetcode.com/problems/palindrome-pairs/) - Yet to solve
 - [383. Ransom Note (Easy)](https://leetcode.com/problems/ransom-note/)
+- [1143. Longest Common Subsequence (Medium)](https://leetcode.com/problems/longest-common-subsequence/)
