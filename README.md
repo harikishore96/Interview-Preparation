@@ -6,6 +6,10 @@
 - [Algorithms](/Algorithms.md)
 - OO Design
 - Design Pattern
+- S.O.L.I.D Principle
+- DBMS
+- Operating Systems
+- Networking
 
 ### Top Learning Resource,
 1. [Scaler Topics - What is Data Structure?](https://www.scaler.com/topics/data-structures/what-is-data-structure/)
