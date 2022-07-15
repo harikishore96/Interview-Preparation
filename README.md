@@ -18,7 +18,8 @@
 
 ### Useful Links,
 1. [60 LeetCode problems to solve for coding interview](https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e)
-2. [Striver’s SDE Sheet – Top Coding Interview Problems](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+2. [Striver - 90 Days Roadmap](https://takeuforward.org/interviews/most-trusted-90-days-roadmap-to-placement-guaranteed/)
+3. [Striver’s SDE Sheet – Top Coding Interview Problems](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 
 ### Practice,
 1. [Code Studio](https://www.codingninjas.com/codestudio/problems)
