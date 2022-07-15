@@ -34,3 +34,4 @@
 - [1480. Running Sum of 1d Array (Easy)](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [1732. Find the Highest Altitude (Easy)](https://leetcode.com/problems/find-the-highest-altitude/)
 - [31. Next Permutation (Medium)](https://leetcode.com/problems/next-permutation/) - [Solution](https://www.youtube.com/watch?v=IhsUbEMfIbY)
+- [75. Sort Colors (Medium)](https://leetcode.com/problems/sort-colors/)
