@@ -35,3 +35,4 @@
 - [1732. Find the Highest Altitude (Easy)](https://leetcode.com/problems/find-the-highest-altitude/)
 - [31. Next Permutation (Medium)](https://leetcode.com/problems/next-permutation/) - [Solution](https://www.youtube.com/watch?v=IhsUbEMfIbY)
 - [75. Sort Colors (Medium)](https://leetcode.com/problems/sort-colors/)
+- [287. Find the Duplicate Number (Medium)](https://leetcode.com/problems/find-the-duplicate-number/)
