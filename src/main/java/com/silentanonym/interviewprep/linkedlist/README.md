@@ -10,3 +10,4 @@
 - [83. Remove Duplicates from Sorted List (Easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) - [Solution](https://www.youtube.com/watch?v=wIB5sg_Ulx4)
 - [1290. Convert Binary Number in a Linked List to Integer (Easy)](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) - [Solution](https://www.youtube.com/watch?v=DDJgtUPg2eQ)
 - [707. Design Linked List (Medium)](https://leetcode.com/problems/design-linked-list/)
+- [142. Linked List Cycle II (Medium)](https://leetcode.com/problems/linked-list-cycle-ii/)
