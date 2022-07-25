@@ -29,3 +29,10 @@ while (slow != null && fast != null && fast.next != null) {
 }
 return false;   // change return value to fit specific problem
 ```
+
+### Real World Applications,
+1. Stack and Queue
+2. Image Gallery
+3. Music Player
+4. Browers
+5. Hash Map and Hash Set
