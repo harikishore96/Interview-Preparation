@@ -13,3 +13,4 @@
 - [142. Linked List Cycle II (Medium)](https://leetcode.com/problems/linked-list-cycle-ii/) - [Solution](https://www.youtube.com/watch?v=QfbOhn0WZ88)
 - [160. Intersection of Two Linked Lists (Easy)](https://leetcode.com/problems/intersection-of-two-linked-lists/) - [Solution](https://www.youtube.com/watch?v=u4FWXfgS8jw)
 - [19. Remove Nth Node From End of List (Medium)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - [Solution](https://www.youtube.com/watch?v=Lhu3MsXZy-Q)
+- [328. Odd Even Linked List (Medium)](https://leetcode.com/problems/odd-even-linked-list/) - [Solution](https://www.youtube.com/watch?v=YE9ggKeHeK0)
