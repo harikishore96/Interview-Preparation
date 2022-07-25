@@ -11,3 +11,4 @@
 - [1290. Convert Binary Number in a Linked List to Integer (Easy)](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) - [Solution](https://www.youtube.com/watch?v=DDJgtUPg2eQ)
 - [707. Design Linked List (Medium)](https://leetcode.com/problems/design-linked-list/)
 - [142. Linked List Cycle II (Medium)](https://leetcode.com/problems/linked-list-cycle-ii/) - [Solution](https://www.youtube.com/watch?v=QfbOhn0WZ88)
+- [160. Intersection of Two Linked Lists (Easy)](https://leetcode.com/problems/intersection-of-two-linked-lists/) - [Solution](https://www.youtube.com/watch?v=u4FWXfgS8jw)
