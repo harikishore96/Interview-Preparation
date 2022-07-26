@@ -15,3 +15,4 @@
 - [19. Remove Nth Node From End of List (Medium)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - [Solution](https://www.youtube.com/watch?v=Lhu3MsXZy-Q)
 - [328. Odd Even Linked List (Medium)](https://leetcode.com/problems/odd-even-linked-list/) - [Solution](https://www.youtube.com/watch?v=YE9ggKeHeK0)
 - [876. Middle of the Linked List (Easy)](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [234. Palindrome Linked List (Easy)](https://leetcode.com/problems/palindrome-linked-list/) - [Solution](https://www.youtube.com/watch?v=-DtNInqFUXs)
