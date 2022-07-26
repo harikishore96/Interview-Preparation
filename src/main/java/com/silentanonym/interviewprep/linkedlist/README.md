@@ -17,3 +17,4 @@
 - [876. Middle of the Linked List (Easy)](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [234. Palindrome Linked List (Easy)](https://leetcode.com/problems/palindrome-linked-list/) - [Solution](https://www.youtube.com/watch?v=-DtNInqFUXs)
 - [430. Flatten a Multilevel Doubly Linked List (Medium)](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) - [Solution](https://www.youtube.com/watch?v=A7leG9StaJ8)
+- [138. Copy List with Random Pointer (Medium)](https://leetcode.com/problems/copy-list-with-random-pointer/) - [Solution](https://www.youtube.com/watch?v=xmQb5y1D8gU)
