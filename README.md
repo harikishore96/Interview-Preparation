@@ -15,6 +15,7 @@
 1. [Scaler Topics - What is Data Structure?](https://www.scaler.com/topics/data-structures/what-is-data-structure/)
 2. [Programiz - DSA & Algorithms](https://www.programiz.com/dsa/algorithm)
 3. [Enjoy Algorithms](https://www.enjoyalgorithms.com/courses/)
+4. [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 
 ### Useful Links,
 1. [60 LeetCode problems to solve for coding interview](https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e)
@@ -44,6 +45,7 @@
     - https://www.youtube.com/watch?v=XKu_SEDAykw
     - [Interview Warmup](https://grow.google/certificates/interview-warmup/)
 - [pramp](https://www.pramp.com/#/)
+- [interviewing.io](https://interviewing.io/)
 
 ### Job Portal,
 - [Amazon](https://www.amazon.jobs/en/job_categories/software-development)
