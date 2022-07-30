@@ -59,3 +59,27 @@
 - [Flipkart](https://www.flipkartcareers.com/#!/joblist)
 - [CRED](https://careers.cred.club/allJob)
 - [Goldman Sachs](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)
+
+### Product based Companies,
+FAANG
+Facebook
+Apple
+Amazon
+Netflix
+Google
+Visa
+Master Card
+Wells Fargo
+Flipkart
+Uber
+Swiggy
+Zomato
+Adobe
+Freshworks
+Zetwerk
+Zoho
+Atlassian
+Deloitte
+E&Y
+Stripe
+Walmart
