@@ -7,12 +7,12 @@ public class DesignLinkedList {
 
 }
 
-class MyLinkedList {
+class SinglyLinkedList {
 
-  private Node head;
+  private SinglyLinkedListNode head;
   private int size;
 
-  public Node getHead() {
+  public SinglyLinkedListNode getHead() {
     return this.head;
   }
 
@@ -20,7 +20,7 @@ class MyLinkedList {
     return this.size;
   }
 
-  public MyLinkedList() {
+  public SinglyLinkedList() {
     head = null;
     size = 0;
   }
@@ -29,7 +29,7 @@ class MyLinkedList {
     if (index < 0 || index >= size) {
       return -1;
     }
-    Node dummy = head;
+    SinglyLinkedListNode dummy = head;
     for (int iIndex = 0; iIndex < index; iIndex++) {
       dummy = dummy.next;
     }
@@ -37,7 +37,7 @@ class MyLinkedList {
   }
 
   public void addAtHead(int val) {
-    Node curr = new Node(val);
+    SinglyLinkedListNode curr = new SinglyLinkedListNode(val);
     if (head != null) {
       curr.next = head;
     }
@@ -46,11 +46,11 @@ class MyLinkedList {
   }
 
   public void addAtTail(int val) {
-    Node curr = new Node(val);
+    SinglyLinkedListNode curr = new SinglyLinkedListNode(val);
     if (head == null) {
       head = curr;
     } else {
-      Node dummy = head;
+      SinglyLinkedListNode dummy = head;
       while (dummy != null && dummy.next != null) {
         dummy = dummy.next;
       }
@@ -67,8 +67,8 @@ class MyLinkedList {
     if (head == null || index == 0) {
       addAtHead(val);
     } else {
-      Node curr = new Node(val);
-      Node dummy = head;
+      SinglyLinkedListNode curr = new SinglyLinkedListNode(val);
+      SinglyLinkedListNode dummy = head;
       for (int iIndex = 0; iIndex < index - 1; ++iIndex) {
         dummy = dummy.next;
       }
@@ -85,19 +85,19 @@ class MyLinkedList {
     if (index == 0) {
       head = head.next;
     } else {
-      Node dummy = head;
+      SinglyLinkedListNode dummy = head;
       for (int iIndex = 0; iIndex < index - 1; ++iIndex) {
         dummy = dummy.next;
       }
-      Node temp = dummy.next;
+      SinglyLinkedListNode temp = dummy.next;
       dummy.next = temp != null ? temp.next : null;
     }
     --size;
   }
 
-  public Node iterate() {
+  public SinglyLinkedListNode iterate() {
     int index = 0;
-    Node dummy = head;
+    SinglyLinkedListNode dummy = head;
     while (dummy != null) {
       System.out.println("Index: " + index);
       ++index;
@@ -107,16 +107,16 @@ class MyLinkedList {
   }
 }
 
-class Node {
+class SinglyLinkedListNode {
 
   public int data;
-  public Node next;
+  public SinglyLinkedListNode next;
 
-  public Node() {
+  public SinglyLinkedListNode() {
     this.data = -1;
   }
 
-  public Node(int data) {
+  public SinglyLinkedListNode(int data) {
     this.data = data;
   }
 }

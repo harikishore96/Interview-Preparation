@@ -27,13 +27,14 @@ public class FlattenAMultilevelDoublyLinkedList {
     }
     return head;
   }
-}
+//}
 
-// Definition for a Node.
-class Node {
+  // Definition for a Node.
+  class Node {
 
-  public int val;
-  public Node prev;
-  public Node next;
-  public Node child;
+    public int val;
+    public Node prev;
+    public Node next;
+    public Node child;
+  }
 }

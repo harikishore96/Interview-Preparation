@@ -7,11 +7,11 @@ import org.junit.jupiter.api.Test;
 
 class DesignDoublyLinkedListTest {
 
-  MyLinkedList linkedList = new MyLinkedList();
+  DoublyLinkedList linkedList = new DoublyLinkedList();
 
   @Test
   void addAtIndex() {
-    linkedList = new MyLinkedList();
+    linkedList = new DoublyLinkedList();
     linkedList.addAtIndex(0, 0);
     linkedList.addAtIndex(1, 1);
     linkedList.addAtIndex(2, 2);
@@ -26,7 +26,7 @@ class DesignDoublyLinkedListTest {
 
   @Test
   void addAtHead() {
-    linkedList = new MyLinkedList();
+    linkedList = new DoublyLinkedList();
     linkedList.addAtHead(0);
     linkedList.addAtHead(1);
     linkedList.addAtHead(2);
@@ -37,7 +37,7 @@ class DesignDoublyLinkedListTest {
 
   @Test
   void addAtTail() {
-    linkedList = new MyLinkedList();
+    linkedList = new DoublyLinkedList();
     linkedList.addAtTail(0);
     linkedList.addAtTail(1);
     linkedList.addAtTail(2);
@@ -50,14 +50,14 @@ class DesignDoublyLinkedListTest {
   void deleteAtIndex() {
 
     // Test Case 1
-    linkedList = new MyLinkedList();
+    linkedList = new DoublyLinkedList();
     linkedList.addAtIndex(0, 0);
     linkedList.deleteAtIndex(0);
     printHead(linkedList.getHead());
     printTail(linkedList.getTail());
 
     // Test Case 2
-    linkedList = new MyLinkedList();
+    linkedList = new DoublyLinkedList();
     linkedList.addAtIndex(0, 0);
     linkedList.addAtIndex(1, 1);
     linkedList.deleteAtIndex(0);
@@ -65,7 +65,7 @@ class DesignDoublyLinkedListTest {
     printTail(linkedList.getTail());
 
     // Test Case 3
-    linkedList = new MyLinkedList();
+    linkedList = new DoublyLinkedList();
     linkedList.addAtIndex(0, 0);
     linkedList.addAtIndex(1, 1);
     linkedList.addAtIndex(2, 2);
@@ -86,10 +86,10 @@ class DesignDoublyLinkedListTest {
     Assertions.assertEquals(-1, linkedList.get(3));
   }
 
-  private void printHead(Node head) {
+  private void printHead(DoublyLinkedListNode head) {
     System.out.println("Head,");
     List<Integer> elements = new ArrayList<>();
-    Node dummy = head;
+    DoublyLinkedListNode dummy = head;
     while (dummy != null) {
       elements.add(dummy.data);
       System.out.println(dummy);
@@ -98,9 +98,9 @@ class DesignDoublyLinkedListTest {
 //    System.out.println(elements);
   }
 
-  private void printTail(Node tail) {
+  private void printTail(DoublyLinkedListNode tail) {
     System.out.println("Tail,");
-    Node dummy = tail;
+    DoublyLinkedListNode dummy = tail;
     while (dummy != null) {
       System.out.println(dummy);
       dummy = dummy.prev;

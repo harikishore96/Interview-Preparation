@@ -1,5 +1,8 @@
 package com.silentanonym.interviewprep.linkedlist;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class ListNode {
 
   int val;
@@ -31,14 +34,18 @@ public class ListNode {
     return this.next;
   }
 
-  public static int[] toArray(ListNode head, int size) {
+  public static int[] toArray(ListNode head) {
     ListNode dummy = head;
-    int[] array = new int[size];
-    for (int index = 0; index < size; index++) {
-      array[index] = dummy.val;
+    List<Integer> array = new ArrayList<>(0);
+    while (dummy != null) {
+      array.add(dummy.val);
       dummy = dummy.next;
     }
-    return array;
+    int[] result = new int[array.size()];
+    for (int index = 0; index < array.size(); index++) {
+      result[index] = array.get(index);
+    }
+    return result;
   }
 
   @Override

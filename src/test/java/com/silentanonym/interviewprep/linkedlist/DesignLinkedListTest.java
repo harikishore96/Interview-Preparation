@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 class DesignLinkedListTest {
 
-  MyLinkedList linkedList = new MyLinkedList();
+  SinglyLinkedList linkedList = new SinglyLinkedList();
 
   @Test
   void addAtHead() {
@@ -33,7 +33,7 @@ class DesignLinkedListTest {
     print(linkedList.getHead());
     Assertions.assertEquals(-1, linkedList.get(0));
 
-    linkedList = new MyLinkedList();
+    linkedList = new SinglyLinkedList();
     linkedList.addAtIndex(0, 0);
     linkedList.addAtIndex(1, 1);
     linkedList.addAtIndex(2, 2);
@@ -64,9 +64,9 @@ class DesignLinkedListTest {
     Assertions.assertEquals(-1, linkedList.get(3));
   }
 
-  private void print(Node head) {
+  private void print(SinglyLinkedListNode head) {
     List<Integer> elements = new ArrayList<>();
-    Node dummy = head;
+    SinglyLinkedListNode dummy = head;
     while (dummy != null) {
       elements.add(dummy.data);
       dummy = dummy.next;

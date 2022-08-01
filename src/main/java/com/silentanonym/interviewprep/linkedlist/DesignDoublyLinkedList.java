@@ -5,21 +5,21 @@ public class DesignDoublyLinkedList {
 }
 
 
-class MyLinkedList {
+class DoublyLinkedList {
 
-  private Node head, tail;
+  private DoublyLinkedListNode head, tail;
   private int size;
 
-  public Node getHead() {
+  public DoublyLinkedListNode getHead() {
     return this.head;
   }
 
-  public Node getTail() {
+  public DoublyLinkedListNode getTail() {
     return this.tail;
   }
 
-  public MyLinkedList() {
-    head = new Node();
+  public DoublyLinkedList() {
+    head = new DoublyLinkedListNode();
     tail = head;
     size = 0;
   }
@@ -28,7 +28,7 @@ class MyLinkedList {
     if (index < 0 || index >= this.size) {
       return -1;
     }
-    Node dummy = this.head;
+    DoublyLinkedListNode dummy = this.head;
     for (int iIndex = 0; iIndex <= index; iIndex++) {
       dummy = dummy.next;
     }
@@ -47,8 +47,8 @@ class MyLinkedList {
     if (index < 0 || index > this.size) {
       return;
     }
-    Node curr = new Node(val);
-    Node dummy = this.head;
+    DoublyLinkedListNode curr = new DoublyLinkedListNode(val);
+    DoublyLinkedListNode dummy = this.head;
     for (int iIndex = 0; iIndex < index; iIndex++) {
       dummy = dummy.next;
     }
@@ -71,7 +71,7 @@ class MyLinkedList {
     if (index < 0 || index >= this.size) {
       return;
     }
-    Node dummy = this.head;
+    DoublyLinkedListNode dummy = this.head;
     for (int iIndex = 0; iIndex < index; iIndex++) {
       dummy = dummy.next;
     }
@@ -92,22 +92,22 @@ class MyLinkedList {
   }
 }
 
-class Node {
+class DoublyLinkedListNode {
 
   public int data;
-  public Node prev, next;
+  public DoublyLinkedListNode prev, next;
 
-  public Node() {
+  public DoublyLinkedListNode() {
     this.data = -1;
   }
 
-  public Node(int data) {
+  public DoublyLinkedListNode(int data) {
     this.data = data;
   }
 
   @Override
   public String toString() {
-    return "Node{" +
+    return "DoublyLinkedListNode{" +
         "prev=" + (prev != null ? String.valueOf(prev.data) : "null") +
         ", data=" + data +
         ", next=" + (next != null ? String.valueOf(next.data) : "null") +
