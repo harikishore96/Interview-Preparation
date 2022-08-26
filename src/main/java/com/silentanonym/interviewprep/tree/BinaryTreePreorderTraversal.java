@@ -6,6 +6,7 @@ import java.util.Stack;
 
 public class BinaryTreePreorderTraversal {
 
+    // Iterative
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> preorder = new ArrayList<>();
         Stack<TreeNode> stack = new Stack<>();
@@ -23,5 +24,19 @@ public class BinaryTreePreorderTraversal {
             }
         }
         return preorder;
+    }
+
+    // Recursive
+    public List<Integer> preorderTraversalRecursive(TreeNode root) {
+        List<Integer> result = new ArrayList<>();
+        preorderTraversal(root, result);
+        return result;
+    }
+
+    private void preorderTraversal(TreeNode root, List<Integer> result) {
+        if(root == null) return;
+        result.add(root.val);
+        preorderTraversal(root.left, result);
+        preorderTraversal(root.right, result);
     }
 }
