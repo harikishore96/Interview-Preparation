@@ -21,3 +21,4 @@
 - [112. Path Sum (Easy)](https://leetcode.com/problems/path-sum/) - [Solution](https://www.youtube.com/watch?v=UYiOUI19iHE)
 - [700. Search in a Binary Search Tree (Easy)](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 - [701. Insert into a Binary Search Tree (Medium)](https://leetcode.com/problems/insert-into-a-binary-search-tree/) - [Solution](https://www.youtube.com/watch?v=FiFiNvM29ps&ab_channel=takeUforward)
+- [637. Average of Levels in Binary Tree (Easy)](https://leetcode.com/problems/average-of-levels-in-binary-tree/) - [Solution](https://www.youtube.com/watch?v=Al2OvfNo7o8&ab_channel=AlgorithmsMadeEasy)
