@@ -23,3 +23,4 @@
 - [701. Insert into a Binary Search Tree (Medium)](https://leetcode.com/problems/insert-into-a-binary-search-tree/) - [Solution](https://www.youtube.com/watch?v=FiFiNvM29ps&ab_channel=takeUforward)
 - [637. Average of Levels in Binary Tree (Easy)](https://leetcode.com/problems/average-of-levels-in-binary-tree/) - [Solution](https://www.youtube.com/watch?v=Al2OvfNo7o8&ab_channel=AlgorithmsMadeEasy)
 - [100. Same Tree (Easy)](https://leetcode.com/problems/same-tree/) - [Solution](https://www.youtube.com/watch?v=4L1ti5k5ja4&ab_channel=AlgorithmsMadeEasy)
+- [572. Subtree of Another Tree (Easy)](https://leetcode.com/problems/subtree-of-another-tree/) - [Solution](https://www.youtube.com/watch?v=E36O5SWp-LE&ab_channel=NeetCode)
