@@ -39,3 +39,4 @@
 - [724. Find Pivot Index (Easy)](https://leetcode.com/problems/find-pivot-index/) - [Solution](https://www.youtube.com/watch?v=u89i60lYx8U&ab_channel=NeetCode)
 - [747. Largest Number At Least Twice of Others (Easy)](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)
 - [66. Plus One (Easy)](https://leetcode.com/problems/plus-one/) - [Solution](https://www.youtube.com/watch?v=G737jzcxG9A&ab_channel=NickWhite)
+- [70. Climbing Stairs (Easy)](https://leetcode.com/problems/climbing-stairs/) - [Solution](https://www.youtube.com/watch?v=ZMNRb9TYiQM&ab_channel=FisherCoder)
