@@ -14,4 +14,4 @@
 - [9. Palindrome Number (Easy)](https://leetcode.com/problems/palindrome-number/)
 - [69. Sqrt(x) (Easy)](https://leetcode.com/problems/sqrtx/) - [Solution](https://www.youtube.com/watch?v=fItuKa_tIpY&ab_channel=SCALER)
 - [509. Fibonacci Number (Easy)](https://leetcode.com/problems/fibonacci-number/)
-- [258. Add Digits (Easy)](https://leetcode.com/problems/add-digits/)
+- [258. Add Digits (Easy)](https://leetcode.com/problems/add-digits/) - [Solution](https://www.youtube.com/watch?v=aOu5fgdNNzU)
