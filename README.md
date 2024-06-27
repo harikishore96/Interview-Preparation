@@ -22,6 +22,7 @@
 2. [Striver - 90 Days Roadmap](https://takeuforward.org/interviews/most-trusted-90-days-roadmap-to-placement-guaranteed/)
 3. [Striver’s SDE Sheet – Top Coding Interview Problems](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 4. [Visualising data structures and algorithms](https://visualgo.net/en)
+5. [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 
 ### Practice,
 1. [Code Studio](https://www.codingninjas.com/codestudio/problems)
