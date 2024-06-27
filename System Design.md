@@ -1,6 +1,7 @@
 # System Design
 
 ### Top Learning Resources,
+- [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [System design interview guide for Software Engineers](https://www.techinterviewhandbook.org/system-design/)
 
@@ -22,3 +23,6 @@
 - [DESIGNING DATA INTENSIVE APPLICATIONS](https://www.amazon.in/dp/9352135245/)
 - [Building Microservices](https://www.amazon.in/dp/1491950358/)
 - [RESTful Web APIs](https://www.amazon.in/dp/9351102971/)
+
+### bytebytego,
+- [Scale From Zero To Millions Of Users](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users)

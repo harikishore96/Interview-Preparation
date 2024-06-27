@@ -4,6 +4,7 @@
 - [Java Syntax](/Java.md)
 - [Data Structures](/Data%20Structures.md)
 - [Algorithms](/Algorithms.md)
+- [System Design](/System%20Design.md)
 - OO Design
 - Design Pattern
 - S.O.L.I.D Principle
